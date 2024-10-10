@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Sébastien
 
-**Développeur en Intelligence Artificielle en devenir !** | **Passionné par l'automatisation et les technologies émergentes** | **Explorateur du temps et de la conscience**
+**Développeur en Intelligence Artificielle en devenir !** | **Passionné par l'automatisation et les technologies émergentes**
 
 ### À propos de moi
 
