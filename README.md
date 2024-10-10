@@ -24,7 +24,5 @@ Je suis particulièrement passionné par :
 ### Me contacter
 
 - 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-gerard-508062329/)
-- 📂 [Mon Portfolio](https://votresiteweb.com)
-- 📧 [sebastien@mail.com](mailto:sebastien@mail.com)
 
 Merci de visiter mon profil, n'hésite pas à me contacter pour discuter de collaborations ou d'opportunités d'alternance !
