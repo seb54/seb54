@@ -19,7 +19,6 @@ Je suis particulièrement passionné par :
 ### Ce que j'apprends actuellement
 - 👨‍💻 Techniques avancées de **scraping et automatisation**
 - 📊 Concepts de **Machine Learning** et **Big Data**
-- 🎨 Amélioration de l'expérience utilisateur avec des interfaces modernes et animées (ex : GSAP pour des animations).
 
 ### Me contacter
 
