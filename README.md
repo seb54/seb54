@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Sébastien
+# 👋 Séb, c'est bien ! (il paraît) 
 
 **Développeur en Intelligence Artificielle en devenir !** | **Passionné par l'automatisation et les technologies émergentes**
 
