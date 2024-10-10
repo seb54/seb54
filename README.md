@@ -1,10 +1,10 @@
 # 👋 Séb, c'est bien ! (il paraît) 
 
-**Développeur en Intelligence Artificielle en devenir !** | **Passionné par l'automatisation et les technologies émergentes**
+**Développeur en Intelligence Artificielle, en devenir !** | **Passionné par l'automatisation et les technologies émergentes**
 
 ### À propos de moi
 
-Depuis mon adolescence, je suis attiré par la programmation. Mon premier projet a été un programme en Visual Basic que j'ai développé à 17 ans. Aujourd'hui, je suis en formation intensive en Intelligence Artificielle, où j'explore des concepts avancés comme le machine learning et le big data.
+Depuis mon adolescence, je suis attiré par la programmation. Mon premier projet a été un programme en Visual Basic que j'ai développé à 17 ans. Aujourd'hui, je suis en formation intensive de développeur en Intelligence Artificielle.
 
 Je suis particulièrement passionné par :
 - 🧠 **L'intelligence artificielle** et son impact sur la société
