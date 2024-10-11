@@ -18,6 +18,6 @@ Chaque projet est l'occasion d'apprendre un peu plus et c'est dans cet esprit qu
 
 ### Contactez-moi :
 
-Je suis ouvert à toute opportunité d'échange ou de collaboration, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com) ou directement ici sur GitHub.
+Je suis ouvert à toute opportunité d'échange ou de collaboration, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-gerard-508062329/) ou directement ici sur GitHub.
 
 Merci pour votre visite, et à bientôt !
