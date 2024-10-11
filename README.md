@@ -1,27 +1,23 @@
-# 👋 Séb, c'est bien ! (il paraît) 
+# Sébastien G. - Développeur en Intelligence Artificielle
 
-**Développeur en Intelligence Artificielle, en devenir !** | **Passionné par l'automatisation et les technologies émergentes**
+Bienvenue sur mon profil GitHub ! Je m'appelle Sébastien, ancien intégrateur web issu de l'univers de la publicité, actuellement en formation chez Simplon pour devenir développeur en Intelligence Artificielle. Mon parcours est guidé par une curiosité pour la technologie et la programmation Python qui m'a toujours accompagné depuis mon adolescence. Aujourd'hui, j'ai la chance d'approndir mes connaissances en Python dans un domaine qui me passionne depuis quelques années : l'Intelligence Artificielle.
 
-### À propos de moi
+### Ce que je fais :
 
-Depuis mon adolescence, je suis attiré par la programmation. Mon premier projet a été un programme en Visual Basic que j'ai développé à 17 ans. Aujourd'hui, je suis en formation intensive de développeur en Intelligence Artificielle.
+- **Automatisation** : J'ai un intérêt marqué pour l'automatisation des tâches.
+- **Intelligence Artificielle** : Je suis actuellement en formation pour devenir développeur en IA. Apprendre à récupérer des données et entraîner des modèles tels que TensorFlow.
+- **Intégration et développement web** : Avec mon passé d'intégrateur web, je suis un des rares développeurs à aimer le CSS 😁. J'ai également un certifat pro de développeur web. 
 
-Je suis particulièrement passionné par :
-- 🧠 **L'intelligence artificielle** et son impact sur la société
-- ⚙️ **L'automatisation** de tâches répétitives pour améliorer l'efficacité
-- 🌐 **Le web scraping** et la gestion de données
-- 🕰️ **Les réflexions sur le temps et la réalité**, inspirées par des scientifiques comme Étienne Klein
+### Mes projets :
 
-### Projets récents
-- ⚔️ **Simulation de tournoi Pokémon** : Un projet en cours où j'explore la PokeAPI pour simuler des tournois avec une interface web sous Flask.
-- 🔄 **Web Scraping avancé** : Réalisation de projets complexes de scraping avec gestion de pagination, aléatoire des en-têtes et délais pour contourner les blocages.
+Vous trouverez ici une sélection de projets de réalisations durant ma formation mais aussi des projets perso, principalement axés sur :
+- L'automatisation de processus
+- Le scraping web et la gestion de données
 
-### Ce que j'apprends actuellement
-- 👨‍💻 Techniques avancées de **scraping et automatisation**
-- 📊 Concepts de **Machine Learning** et **Big Data**
+Chaque projet est l'occasion d'apprendre un peu plus et c'est dans cet esprit que je me consacre à mes travaux.
 
-### Me contacter
+### Contactez-moi :
 
-- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-gerard-508062329/)
+Je suis ouvert à toute opportunité d'échange ou de collaboration, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com) ou directement ici sur GitHub.
 
-Merci de visiter mon profil, n'hésite pas à me contacter pour discuter de collaborations ou d'opportunités d'alternance !
+Merci pour votre visite, et à bientôt !
