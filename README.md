@@ -1,6 +1,6 @@
 # Sébastien, développeur en Intelligence Artificielle en devenir !
 
-Bienvenue sur mon profil GitHub ! Je m'appelle Sébastien, ancien intégrateur web issu de l'univers de la publicité, actuellement en formation chez Simplon pour devenir développeur en Intelligence Artificielle. Mon parcours est guidé par une curiosité pour la technologie et la programmation Python qui m'a toujours accompagné depuis mon adolescence. Aujourd'hui, j'ai la chance d'approndir mes connaissances en Python dans un domaine qui me passionne depuis quelques années : l'Intelligence Artificielle.
+Bienvenue sur mon profil GitHub ! Je m'appelle Sébastien, ancien intégrateur web issu de l'univers de la publicité, actuellement en formation chez Simplon pour devenir développeur en Intelligence Artificielle. Mon parcours est guidé par une curiosité pour la technologie et la programmation Python qui m'a toujours accompagné depuis mon adolescence. Aujourd'hui, j'ai la chance d'approndir mes connaissances en Python dans un domaine qui me passionne et me fascine depuis quelques années : l'Intelligence Artificielle.
 
 ### Ce que je fais :
 
