@@ -4,8 +4,8 @@ Bienvenue sur mon profil GitHub ! Je m'appelle Sébastien, ancien intégrateur w
 
 ### Ce que je fais :
 
-- **Automatisation** : J'ai un intérêt marqué pour l'automatisation des tâches.
-- **Intelligence Artificielle** : Je suis actuellement en formation pour devenir développeur en IA. Apprendre à récupérer des données et entraîner des modèles tels que TensorFlow.
+- **Automatisation** : J'ai un intérêt marqué pour l'automatisation des tâches et ainsi éliminer les tâches répétitives chronophages.
+- **Intelligence Artificielle** : Actuellement en formation pour devenir développeur en IA, j'apprends à récupérer des données et à entraîner des modèles tels que TensorFlow.
 - **Intégration et développement web** : Avec mon passé d'intégrateur web, je suis un des rares développeurs à aimer le CSS 😁. J'ai également un certifat pro de développeur web. 
 
 ### Mes projets :
